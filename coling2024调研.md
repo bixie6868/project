@@ -24,6 +24,13 @@
  * 给定image 以及 target knowledge triplet 生成一个对应的问题
  * ![image](https://github.com/bixie6868/project/assets/78329110/d407444a-a005-4c6e-b634-959ae02064d7)
  * ![image](https://github.com/bixie6868/project/assets/78329110/2e0a2ff8-a5b4-4c3c-9cf5-d22a0b047a9c)
+# Advancing Large Multi-modal Models with Explicit Chain-of-Reasoning and Visual Question Generation
+## 动机：
+* 构建不仅准确而且具备显式推理能力的LMMs，生成数据集促进思维链式推理与提问机制相结合。
+## 贡献：
+ * 提出结合推理过程合问题生成能力到LLM上
+ * 提出一个新的数据集，用于训练
+ * 生成显示推理过程和提问的能力
 
 
 
